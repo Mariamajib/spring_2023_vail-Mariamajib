@@ -26,7 +26,7 @@
 
 ## Challenging, interesting, or exciting aspects of today's assignment
 
-* It was interesting seeing the visualization of Decision Tree and Random Forest models, discovering the differences and similarities between Random Forest and Decision Trees.
+* It was interesting seeing the visualizations of Decision Tree and Random Forest models, discovering the differences and similarities between Random Forest and Decision Trees.
 
 * Learning about other math and data libraries in Python as side from Pandas, Matplotlib, and Numpy I am familar with 
   * SciPy: scientific and technical computing 
