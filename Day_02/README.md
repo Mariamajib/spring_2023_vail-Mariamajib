@@ -31,4 +31,3 @@
 * It was interesting to see the visualizations of the machine learning algorithm framework learnt on Day 1 (Machine Learning) for the prediction using Computer vision
 
 ## Additional resources used 
-<To be filled>
