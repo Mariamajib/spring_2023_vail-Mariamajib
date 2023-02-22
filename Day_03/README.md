@@ -28,7 +28,7 @@
 
 * Rectified linear activation function (RELU) allows models to learn faster and perform better which prevents "vanishing gradients problems".
 
-* ReLU activation function is linear in the positive dimension, but zero in the negative dimension.
+* RELU activation function is linear in the positive dimension, but zero in the negative dimension.
 
 * Forward pass is used for prediction and generating loss for backpropogation.
 
