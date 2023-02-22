@@ -10,7 +10,7 @@
 * My main takeaways from doing today's assignment is to always practice what I have learnt and also continue adding to my knowledge skills. 
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-* The interesting aspect of today's assignment was that I was able practice and gain new knowledge (using if and else statements, recursion, difference between pandas and numpy etc.)  
+* The interesting aspect of today's assignment was that I was able practice and gain new knowledge (using if and else statements, recursion, differences between pandas and numpy etc.)  
 
 ## Additional resources used 
 * https://www.google.com/amp/s/www.geeksforgeeks.org/python-program-check-string-palindrome-not/amp/
