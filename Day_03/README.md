@@ -21,7 +21,7 @@
 * Properties of Activation energy
   
   * Nonlinear
-  * Injective meaning f(x^2) = f(x^3) implies x^2 = x^3
+  * Injective meaning f(x2) = f(x3) implies x2 = x3 
   * Differential and continous
   
 * Sigmond activation function is used for two outputs (binary classification) with probability range of 0 and 1 while softmax activation function is used for multi-class classification.
