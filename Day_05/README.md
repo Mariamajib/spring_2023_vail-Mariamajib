@@ -42,7 +42,7 @@
 * Mean Square Logarithmic Error (MSLE) is used to balance between favouring large errors and avoiding increased effect of square operations in MSE.
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-* It was interesting to learn about the importance of loss function in Machine Learning Model performance, different types of regression loss functions, their funtions, and when it is appropriate to make use of them to get the desired results. 
+* It was interesting to learn about the importance of loss function in machine learning model performance, different types of regression loss functions, their funtions, and when it is appropriate to make use of them to get the desired results. 
 
 ## Additional resources used 
 
