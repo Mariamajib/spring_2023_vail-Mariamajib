@@ -71,7 +71,7 @@
  * Exploding gradient is when the derivatives are large then the gradient will increase exponentially as we propagate down the model until they eventually explode.
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-* It was interesting viewing the grahical representations of the various types of acttivation functions and learning their applications. 
+* It was interesting viewing the graphical representations of the various types of acttivation functions and learning their applications. 
 
 ## Additional resources used 
 
